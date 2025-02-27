@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6d9d9e83-eb45-4ae3-867a-f8733f12d530" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Customer/CreatePro.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Customer/SignIn.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/Customer/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Diet.html" beforeDir="false" afterPath="$PROJECT_DIR$/Customer/Diet.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/FIT.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Customer/FIT.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/FIT.png" beforeDir="false" afterPath="$PROJECT_DIR$/Customer/FIT.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Home.css" beforeDir="false" afterPath="$PROJECT_DIR$/Customer/Home.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Home.html" beforeDir="false" afterPath="$PROJECT_DIR$/Customer/Home.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Profile.html" beforeDir="false" afterPath="$PROJECT_DIR$/Customer/Profile.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Strength.html" beforeDir="false" afterPath="$PROJECT_DIR$/Customer/Strength.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Yoga.html" beforeDir="false" afterPath="$PROJECT_DIR$/Customer/Yoga.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Customer/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Customer/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Customer/vcs.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Vincei15&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Vincei15/FIT.git&quot;,
+    &quot;accountId&quot;: &quot;982d64c6-1b89-46aa-98f3-59c7f0000fdf&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2sMqzlwX8yo32arDW0MG0FcbDzC" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "JavaScript Debug.Home.html.executor": "Run",
+    "JavaScript Debug.SignIn.html.executor": "Run",
+    "JavaScript Debug.Yoga.html.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/vince/Library/CloudStorage/OneDrive-UNCG/csc340-workspace/FIT/.idea",
+    "list.type.of.created.stylesheet": "CSS",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/.idea" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-fdfe4dae3a2d-intellij.indexing.shared.core-IU-243.22562.218" />
+        <option value="bundled-js-predefined-d6986cc7102b-deb605915726-JavaScript-IU-243.22562.218" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6d9d9e83-eb45-4ae3-867a-f8733f12d530" name="Changes" comment="" />
+      <created>1738276055315</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1738276055315</updated>
+      <workItem from="1738276056487" duration="1641000" />
+      <workItem from="1740596725851" duration="7611000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
