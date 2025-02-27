@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6d9d9e83-eb45-4ae3-867a-f8733f12d530" name="Changes" comment="" />
+    <list default="true" id="6d9d9e83-eb45-4ae3-867a-f8733f12d530" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/CreatePro.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/SignIn.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -47,9 +50,9 @@
     "DefaultHtmlFileTemplate": "HTML File",
     "JavaScript Debug.Home.html.executor": "Run",
     "JavaScript Debug.SignIn.html.executor": "Run",
-    "JavaScript Debug.Yoga.html.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "/Users/vince/Library/CloudStorage/OneDrive-UNCG/csc340-workspace/FIT/.idea",
@@ -85,7 +88,7 @@
       <option name="presentableId" value="Default" />
       <updated>1738276055315</updated>
       <workItem from="1738276056487" duration="1641000" />
-      <workItem from="1740596725851" duration="8220000" />
+      <workItem from="1740596725851" duration="6597000" />
     </task>
     <servers />
   </component>
