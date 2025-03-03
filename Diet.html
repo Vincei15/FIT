@@ -3,16 +3,38 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Personalized Diet Plan</title>
+  <title>Yoga Classes</title>
   <link rel="stylesheet" href="Home.css">
 </head>
 <body>
 <header>
   <img src="FIT.png" alt="FIT Logo">
-  <h1>Personalized Diet Plan</h1>
-  <a href="Home.html" class="L1">Back To Home</a>
-
-</header>
-
+  <h1>Diet Plans</h1>
+  <div class="L1">
+    <a href="Home.html"><button>Back to Home</button></a>
+    <a href="SignIn.html"  ><button>Sign Out</button></a>
+  </div></header>
+<section class="services">
+  <h2>Personilized Diet Plans</h2>
+  <div class="serviceList">
+    <div class="serviceCard">
+      <h3>1/2 a Pound a Week (250 calorie deficit)</h3>
+      <p>Average daily intake: 1750–2000 calories</p>
+      <a href="Diet1.html" class="btn"><button>Subscribe</button></a>
+    </div>
+    <div class="serviceCard" onclick="selectService('Personalized Diet Plan')">
+      <h3>1 Pound a Week (500 calorie deficit) </h3>
+      <p>Average daily intake: 1500–1750 calories
+      </p>
+      <a href="Diet2.html" class="btn"><button>Subscribe</button></a>
+    </div>
+    <div class="serviceCard" onclick="selectService('Strength Training')">
+      <h3>2 Pounds a Week (1000 calorie deficit)</h3>
+      <p>Average daily intake: 1200–1500 calories
+      </p>
+      <a href="Diet3.html" class="btn"><button>Subscribe</button></a>
+    </div>
+  </div>
+</section>
 </body>
 </html>

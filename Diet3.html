@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Yoga Classes</title>
+    <link rel="stylesheet" href="Home.css">
+</head>
+<body>
+<header>
+    <img src="FIT.png" alt="FIT Logo">
+    <h1>Diet Plans</h1>
+    <div class="L1">
+        <a href="Diet.html"><button>Back to Diet Plans</button></a>
+        <a href="Home.html"><button>Back to Home</button></a>
+        <a href="SignIn.html"><button>Sign Out</button></a>
+    </div>
+</header>
+<h2>2 Pounds a Week Diet Plan (1000 calorie deficit)</h2>
+<br>
+<br>
+<ul class="meal-list">
+    <li><strong>Breakfast</strong>
+        <ul>
+            <li>Egg white omelet with spinach and feta (250 cal)</li>
+            <li>Chia pudding with almond milk and berries (250 cal)</li>
+            <li>Green smoothie (spinach, banana, protein powder, almond milk) (250 cal)</li>
+        </ul>
+    </li>
+    <li><strong>Lunch</strong>
+        <ul>
+            <li>Grilled chicken and kale salad with vinaigrette (400 cal)</li>
+            <li>Black bean and avocado wrap (400 cal)</li>
+            <li>Shrimp and quinoa stir-fry with veggies (400 cal)</li>
+        </ul>
+    </li>
+    <li><strong>Dinner</strong>
+        <ul>
+            <li>Grilled salmon with roasted cauliflower and wild rice (500 cal)</li>
+            <li>Turkey and vegetable soup with a side salad (500 cal)</li>
+            <li>Vegan lentil and vegetable curry (500 cal)</li>
+        </ul>
+    </li>
+    <li><strong>Snacks</strong>
+        <ul>
+            <li>Cucumber slices with hummus (100 cal)</li>
+            <li>Hard-boiled egg (70 cal)</li>
+        </ul>
+    </li>
+</ul>
+<div class="review-section">
+    <h2>Leave a Review</h2>
+    <form id="review-form">
+        <label for="name">Your Name:</label>
+        <input type="text" id="name" name="name" required>
+
+        <label for="rating">Rating:</label>
+        <select id="rating" name="rating" required>
+            <option value="5">  Excellent</option>
+            <option value="4">  Very Good</option>
+            <option value="3">  Good</option>
+            <option value="2">️  Fair</option>
+            <option value="1">  Poor</option>
+        </select>
+
+        <label for="review">Your Review:</label>
+        <textarea id="review" name="review" rows="4" required></textarea>
+
+        <button type="submit">Submit Review</button>
+    </form>
+</div>
+</body>
+</html>

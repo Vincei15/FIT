@@ -10,8 +10,35 @@
 <header>
   <img src="FIT.png" alt="FIT Logo">
   <h1>Strength Training</h1>
-  <a href="Home.html" class="L1">Back To Home</a>
-</header>
+  <div class="L1">
+    <a href="Home.html"><button>Back to Home</button></a>
+    <a href="SignIn.html"  ><button>Sign Out</button></a>
+  </div></header>
+<section class="services">
+  <h2>Strength Training Plans</h2>
+  <div class="serviceList">
+    <div class="serviceCard">
+      <h3>Beginner</h3>
+      <p>Build foundational strength and proper form</p>
+      <a href="StrengthBegin.html" class="btn"><button>Subscribe</button></a>
+    </div>
 
+    <div class="serviceCard" onclick="selectService('Personalized Diet Plan')">
+      <h3>Intermediate</h3>
+      <p>Increase resistance and add complexity
+      </p>
+      <a href="StrengthInt.html" class="btn"><button>Subscribe</button></a>
+    </div>
+    <div class="serviceCard" onclick="selectService('Strength Training')">
+      <h3>Advanced</h3>
+      <p>Max strength, power, and advanced movements
+      </p>
+      <a href="StrengthAd.html" class="btn"><button>Subscribe</button></a>
+    </div>
+  </div>
+</section>
+<p>Not Sure what to pick?</p>
+<p>Based off your profile information</p>
+<p><strong>Our Recomendation is:</strong> <span id="StrengthRec">Beginner</span></p>
 </body>
 </html>

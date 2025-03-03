@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Strength Training</title>
+  <link rel="stylesheet" href="Home.css">
+</head>
+<body>
+<header>
+  <img src="FIT.png" alt="FIT Logo">
+  <h1>Strength Training</h1>
+  <div class="L1">
+    <a href="Strength.html"><button>Back to Strength Training</button></a>
+    <a href="Home.html"><button>Back to Home</button></a>
+    <a href="SignIn.html"><button>Sign Out</button></a>
+  </div>
+</header>
+<h2>Intermediate</h2>
+<br>
+<br>
+<ul class="workout-list">
+  <li><strong>Equipment:</strong> Dumbbells, barbell, resistance bands</li>
+  <li><strong>Exercises:</strong>
+    <ul>
+      <li>Barbell or Dumbbell Squats – 4 sets of 8-10 reps</li>
+      <li>Deadlifts (Dumbbell or Barbell) – 4 sets of 8 reps</li>
+      <li>Pull-ups (Assisted if needed) – 3 sets of 8-10 reps</li>
+      <li>Overhead Barbell Press – 3 sets of 8 reps</li>
+      <li>Bulgarian Split Squats – 3 sets of 8 reps per leg</li>
+      <li>Hanging Leg Raises – 3 sets of 12 reps</li>
+      <li>Farmer’s Carry – 3 rounds of 30 seconds</li>
+    </ul>
+  </li>
+  <li><strong> Workout Plan:</strong>
+    <ul>
+      <li><strong>Day 1:</strong> Upper Body (Pull-ups, Shoulder Press, Rows)</li>
+      <li><strong>Day 2:</strong> Lower Body (Squats, Deadlifts, Split Squats)</li>
+      <li><strong>Day 3:</strong> Rest or active recovery</li>
+      <li><strong>Day 4:</strong> Full-body (Deadlifts, Press, Core Work)</li>
+      <li><strong>Day 5:</strong> Mobility + Cardio</li>
+      <li><strong>Day 6:</strong> Lower Body Strength (Squats, Bulgarian Split Squats)</li>
+      <li><strong>Day 7:</strong> Rest</li>
+    </ul>
+  </li>
+</ul>
+
+<div class="review-section">
+  <h2>Leave a Review</h2>
+  <form id="review-form">
+    <label for="name">Your Name:</label>
+    <input type="text" id="name" name="name" required>
+
+    <label for="rating">Rating:</label>
+    <select id="rating" name="rating" required>
+      <option value="5">  Excellent</option>
+      <option value="4">  Very Good</option>
+      <option value="3">  Good</option>
+      <option value="2">️  Fair</option>
+      <option value="1">  Poor</option>
+    </select>
+
+    <label for="review">Your Review:</label>
+    <textarea id="review" name="review" rows="4" required></textarea>
+
+    <button type="submit">Submit Review</button>
+  </form>
+</div>
+
+</body>
+</html>

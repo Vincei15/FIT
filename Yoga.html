@@ -9,8 +9,35 @@
 <body>
 <header>
   <img src="FIT.png" alt="FIT Logo">
-  <h1>Yoga Classes</h1>
-  <a href="Home.html" class="L1">Back To Home</a>
-</header>
+  <h1>Yoga</h1>
+  <div class="L1">
+    <a href="Home.html"><button>Back to Home</button></a>
+    <a href="SignIn.html"  ><button>Sign Out</button></a>
+  </div></header>
+<section class="services">
+  <h2>Yoga Exercises</h2>
+  <div class="serviceList">
+    <div class="serviceCard">
+      <h3>Beginner</h3>
+      <p>Great for building flexibility, balance, and basic strength</p>
+      <a href="YogaBegin.html" class="btn"><button>Subscribe</button></a>
+    </div>
+    <div class="serviceCard" onclick="selectService('Personalized Diet Plan')">
+      <h3>Intermediate</h3>
+      <p>More dynamic poses requiring strength and flexibility.
+      </p>
+      <a href="YogaInt.html" class="btn"><button>Subscribe</button></a>
+    </div>
+    <div class="serviceCard" onclick="selectService('Strength Training')">
+      <h3>Advanced</h3>
+      <p>These poses require deep flexibility, strength, and control.
+      </p>
+      <a href="YogaAd.html" class="btn"><button>Subscribe</button></a>
+    </div>
+  </div>
+</section>
+<p>Not Sure what to pick?</p>
+<p>Based off your profile information</p>
+<p><strong>Our Recomendation is:</strong> <span id="YogaRec">Beginner</span></p>
 </body>
 </html>
