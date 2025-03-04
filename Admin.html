@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Admin Dashboard</title>
+    <link rel="stylesheet" href="Home.css">
+    <style>
+        #adminContent {
+            display: none;
+        }
+    </style>
+    <script>
+        function checkPassword() {
+            var password = prompt("Please enter the password:");
+            if (password === "0000") {
+                document.getElementById('adminContent').style.display = 'block';
+            } else {
+                alert("Incorrect password. Access denied.");
+                window.location.href = "Home.html"; // Redirect to home page on incorrect password
+            }
+        }
+    </script>
+</head>
+<body onload="checkPassword()">
+    <header>
+        <img src="FIT.png" alt="FIT Logo">
+        <h1>FIT - Admin Dashboard</h1>
+        <div class="L1">
+            <a href="Profile.html"><button>View Profile</button></a>
+            <a href="SignIn.html"><button>Sign Out</button></a>
+        </div>
+        <br>
+    </header>
+    <div id="adminContent">
+        <section class="services">
+            <h2>Admin Controls</h2>
+            <div class="serviceList">
+                <div class="serviceCard">
+                    <h3>User Management</h3>
+                    <p>Admin can view and search for all registered users</p>
+                    <a href="UserDatabase.html" class="btn"><button>Manage Users</button></a>
+                </div>
+                <div class="serviceCard">
+                    <h3>View Reviews</h3>
+                    <p>Admin can view feedback and complaints from users or providers regarding issues with the platform.</p>
+                    <a href="ViewReviews.html" class="btn"><button>Manage Reviews</button></a>
+                </div>
+                <div class="serviceCard">
+                    <h3>Professionals Database</h3>
+                    <p>Admin can view and approve or reject new services added by health professionals.</p>
+                    <a href="ProfessionalsDatabase.html" class="btn"><button>View Professionals</button></a>
+                </div>
+                <div class="serviceCard">
+                    <h3>View Subscriptions</h3>
+                    <p>Admin can view and manage user subscriptions.</p>
+                    <a href="ViewSubscriptions.html" class="btn"><button>Manage Subscriptions</button></a>
+                </div>
+            </div>
+        </section>
+    </div>
+</body>
+</html>
