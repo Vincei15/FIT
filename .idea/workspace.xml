@@ -5,38 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6d9d9e83-eb45-4ae3-867a-f8733f12d530" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Diet1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Diet2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Diet3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StrengthAd.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StrengthBegin.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StrengthInt.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/YogaAd.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/YogaBegin.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/YogaInt.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CreatePro.html" beforeDir="false" afterPath="$PROJECT_DIR$/CreatePro.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Customer/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Customer/CreatePro.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Customer/Diet.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Customer/FIT.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Customer/FIT.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Customer/Home.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Customer/Home.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Customer/Profile.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Customer/SignIn.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Customer/Strength.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Customer/Yoga.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Customer/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Customer/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Customer/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Diet.html" beforeDir="false" afterPath="$PROJECT_DIR$/Diet.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Home.css" beforeDir="false" afterPath="$PROJECT_DIR$/Home.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Home.html" beforeDir="false" afterPath="$PROJECT_DIR$/Home.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Profile.html" beforeDir="false" afterPath="$PROJECT_DIR$/Profile.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SignIn.html" beforeDir="false" afterPath="$PROJECT_DIR$/SignIn.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Strength.html" beforeDir="false" afterPath="$PROJECT_DIR$/Strength.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Yoga.html" beforeDir="false" afterPath="$PROJECT_DIR$/Yoga.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Admin.html" beforeDir="false" afterPath="$PROJECT_DIR$/Admin.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -120,7 +90,7 @@
       <option name="presentableId" value="Default" />
       <updated>1738276055315</updated>
       <workItem from="1738276056487" duration="1641000" />
-      <workItem from="1740596725851" duration="38585000" />
+      <workItem from="1740596725851" duration="40971000" />
     </task>
     <servers />
   </component>
