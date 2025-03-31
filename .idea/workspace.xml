@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6d9d9e83-eb45-4ae3-867a-f8733f12d530" name="Changes" comment="" />
+    <list default="true" id="6d9d9e83-eb45-4ae3-867a-f8733f12d530" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,6 +17,7 @@
       <list>
         <option value="CSS File" />
         <option value="HTML File" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -33,6 +36,9 @@
     &quot;accountId&quot;: &quot;982d64c6-1b89-46aa-98f3-59c7f0000fdf&quot;
   }
 }</component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 7
 }</component>
@@ -50,11 +56,16 @@
     "JavaScript Debug.Profile.html.executor": "Run",
     "JavaScript Debug.SignIn.html.executor": "Run",
     "JavaScript Debug.Yoga.html.executor": "Run",
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
+    "Spring Boot.DemoApplication.executor": "Run",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/Users/vince/Library/CloudStorage/OneDrive-UNCG/csc340-workspace/FIT/.idea",
+    "last_opened_file_path": "/Users/vince/Library/CloudStorage/OneDrive-UNCG/csc340-workspace/FIT",
     "list.type.of.created.stylesheet": "CSS",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -63,12 +74,28 @@
     "nodejs_package_manager_path": "npm",
     "settings.editor.selected.configurable": "preferences.lookFeel",
     "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "mysql"
+    ]
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$APPLICATION_CONFIG_DIR$/extensions" />
+      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/.idea" />
     </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="DemoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="demo" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.demo.DemoApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
@@ -87,11 +114,30 @@
       <option name="presentableId" value="Default" />
       <updated>1738276055315</updated>
       <workItem from="1738276056487" duration="1641000" />
-      <workItem from="1740596725851" duration="41305000" />
+      <workItem from="1740596725851" duration="50059000" />
+      <workItem from="1742937678152" duration="55000" />
+      <workItem from="1742937739720" duration="930000" />
+      <workItem from="1743368485398" duration="89000" />
+      <workItem from="1743368578354" duration="229000" />
+      <workItem from="1743368825143" duration="287000" />
+      <workItem from="1743369139826" duration="330000" />
+      <workItem from="1743369476818" duration="275000" />
+      <workItem from="1743369786583" duration="19503000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
