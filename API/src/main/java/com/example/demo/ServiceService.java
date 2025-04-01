@@ -2,6 +2,8 @@ package com.example.demo;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
+
+import java.util.Date;
 import java.util.List;
 
 @Service
@@ -23,5 +25,15 @@ public class ServiceService {
 
     public void deleteService(Long id) {
         serviceRepository.deleteById(id);
+    }
+
+    public ServiceEntity updateService(Long id, ServiceEntity serviceDetails) {
+        ServiceEntity service = getServiceById(id);
+        if (service != null) {
+            service.setDetails(serviceDetails.getDetails());
+            service.setUpdatedAt(new Date());
+            return serviceRepository.save(service);
+        }
+        return null;
     }
 }
